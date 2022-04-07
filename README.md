@@ -1,0 +1,2 @@
+# hobby
+Utilizando os recursos aprendidos até agora, crie um site com ao menos 3 páginas utilizando como tema um hobby que você possua ou admire.  Exemplos:  tocar um intrumento musical; ler histórias em quadrinhos; realizar algum tipo de passatempo (tricotar, jogos de tabuleiro, marcenaria, etc.); ... Não recomendamos o uso de imagens as quais você não tenha direito de uso. Este curso se exime de qualquer responsabilidade referente a danos causados à terceiros em trabalhos criados por alunos.
